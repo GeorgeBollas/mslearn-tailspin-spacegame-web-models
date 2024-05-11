@@ -1,5 +1,5 @@
 pool:
-  name: cert
+  name: Cert
 
 variables:
   buildConfiguration: 'Release'
